@@ -1,0 +1,7 @@
+POST /revision/comment/like HTTP/1.1
+Host: www.ximalaya.com
+Content-Type: application/json
+Referer: https://www.ximalaya.com/qinggan/261139/194513320
+Cookie: 1&_token=73077633&6FAABFC37E5F4NdV26A8708781D4CCAD3F43587FE4ACA65A72A27161AEE3FD0CC3B3D659AA7D47E5
+
+{"trackId":194513320,"commentId":119944909}
